@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adwenst
-- 👀 I’m interested in bridge, tennis and violin.
+- 👀 I’m interested in bridge, tennis and violin
 - 🌱 I’m currently learning XGBOOST
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on 吃 and 睡
 - 📫 How to reach me 13521621607
 
 <!---
